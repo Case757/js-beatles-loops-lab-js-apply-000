@@ -10,5 +10,8 @@ function theBeatlesPlay(musicians, instrument) {
 
 function johnLennonFacts(facts) {
   let i = 0
-  while ()
+  myArr = []
+  while (i > facts.length) {
+    myArr.push(`${facts[i]}!!!`);
+  }
 }
